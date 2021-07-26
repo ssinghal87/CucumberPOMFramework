@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: testrunners.MyTestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 95.325 s <<< FAILURE! - in testrunners.MyTestRunner
+null on testrunners.MyTestRunner(testrunners.MyTestRunner)  Time elapsed: 94.818 s  <<< FAILURE!
+java.lang.NoSuchFieldError: Justify
+
